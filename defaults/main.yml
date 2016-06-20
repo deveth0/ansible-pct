@@ -1,0 +1,9 @@
+---
+# defaults file for pct
+lxc_net_netmask: 24
+lxc_memory: 512
+lxc_swap: 512
+lxc_cpu_limit: 2
+lxc_net_bridge: vmbr0
+lxc_disk: 8
+lxc_storage: local

@@ -57,7 +57,7 @@ No dependencies required
       lxc_hypervisor: 10.0.2.10
 
     roles:
-      - role: pct
+      - role: deveth0.pct
 
 ## Example Hosts
 
